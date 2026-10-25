@@ -4,7 +4,14 @@
 
 C# ve .NET ile kurumsal web uygulamalarının backend tarafını geliştiriyorum. Yeni özellik geliştirmeden harici servis entegrasyonlarına, canlı ortam bakımından yayın süreçlerine kadar yazılımın farklı aşamalarında sorumluluk aldım.
 
-### Öne çıkan proje
+### Profesyonel projeler
+
+- **Essa Connect – Şirket İçi İletişim Platformu:** .NET 10 ve SignalR ile gerçek zamanlı mesajlaşma; CQRS, inbox/outbox tabanlı arka plan işlemleri ve idempotent işlem akışları.
+- **Bayi ve Operasyon Yönetim Platformu (Freelance):** iyzico ödeme entegrasyonu, tek transaction içinde satış ve bakiye yönetimi, kapsamlı kimlik doğrulama akışları.
+
+Bu projelerin kaynak kodu paylaşılamadığı için ayrıntılarını [portfolyo sitemde](https://yigitucaroglu.github.io) anlattım.
+
+### Kodunu inceleyebileceğiniz proje
 
 **[Kurumsal Talep ve Onay Yönetim Sistemi](https://github.com/yigitucaroglu/CorporateRequestManagement)**: .NET 8 ve Clean Architecture ile rol bazlı, çok seviyeli talep ve onay akışları. CQRS (MediatR), JWT ve rotasyonlu refresh token, rate limiting, optimistic concurrency ve hassas değerleri maskeleyen audit logging. 260 unit ve 235 integration test.
 
